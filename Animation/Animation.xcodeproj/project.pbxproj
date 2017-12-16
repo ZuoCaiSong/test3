@@ -15,6 +15,7 @@
 		7D1A4BB71FE4DE5A00487511 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A4BB61FE4DE5A00487511 /* main.m */; };
 		7D1A4BC11FE4DE5A00487511 /* AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A4BC01FE4DE5A00487511 /* AnimationTests.m */; };
 		7D1A4BCC1FE4DE5B00487511 /* AnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D1A4BCB1FE4DE5B00487511 /* AnimationUITests.m */; };
+		7D4AC16F1FE58C890076211F /* test1View.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D4AC16E1FE58C890076211F /* test1View.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		7D1A4BC71FE4DE5B00487511 /* AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D1A4BCB1FE4DE5B00487511 /* AnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationUITests.m; sourceTree = "<group>"; };
 		7D1A4BCD1FE4DE5B00487511 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D4AC16D1FE58C890076211F /* test1View.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1View.h; sourceTree = "<group>"; };
+		7D4AC16E1FE58C890076211F /* test1View.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1View.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				7D1A4BA81FE4DE5A00487511 /* AppDelegate.m */,
 				7D1A4BAA1FE4DE5A00487511 /* ViewController.h */,
 				7D1A4BAB1FE4DE5A00487511 /* ViewController.m */,
+				7D4AC16D1FE58C890076211F /* test1View.h */,
+				7D4AC16E1FE58C890076211F /* test1View.m */,
 				7D1A4BAD1FE4DE5A00487511 /* Main.storyboard */,
 				7D1A4BB01FE4DE5A00487511 /* Assets.xcassets */,
 				7D1A4BB21FE4DE5A00487511 /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			files = (
 				7D1A4BAC1FE4DE5A00487511 /* ViewController.m in Sources */,
 				7D1A4BB71FE4DE5A00487511 /* main.m in Sources */,
+				7D4AC16F1FE58C890076211F /* test1View.m in Sources */,
 				7D1A4BA91FE4DE5A00487511 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
