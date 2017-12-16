@@ -45,7 +45,7 @@
     anima.duration = 1.0f;
     [_domeView.layer addAnimation:anima forKey:@"scaleAnimation"];
     NSArray * arr = @[@"0"];
-    NSLog(@"%@",arr[1]);
+//    NSLog(@"%@",arr[1]);
 }
 
 // MARK: - 背景颜色的变化动画
