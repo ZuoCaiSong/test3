@@ -68,5 +68,13 @@ fastlane/test_output
 简单爱.mp3
 瓦解.mp3
 
+*.xcuserstate  
+project.xcworkspace    
+xcuserdata    
+UserInterfaceState.xcuserstate    
+project.xcworkspace/  
+xcuserdata/  
+UserInterface.xcuserstate 
+
 
 
